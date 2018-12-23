@@ -1,7 +1,7 @@
 # Jupyter Notebook for in-class Kaggle competition
 
 ## Description
-This competition was a part of <h path='opendatascience.com'>ODS</h> course.
+This competition was a part of [ODS](https://mlcourse.ai/) course.
 
 ## Short description
 Web-user identification is a hot research topic on the brink of sequential pattern mining and behavioral psychology.
