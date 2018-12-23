@@ -1,0 +1,9 @@
+# ignore dumps of Python environment variables
+/statics/notebook_env*
+
+# ignore submit files
+/statics/subm*
+
+# ignore generated txt files
+/statics/test_sessions_text.txt
+/statics/train_sessions_text.txt
